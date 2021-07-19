@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "673802099871",
+    "firebase_url": "https://contol-phone-prank.firebaseio.com",
+    "project_id": "contol-phone-prank",
+    "storage_bucket": "contol-phone-prank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673802099871:android:83085688f4a00513ca16aa",
+        "android_client_info": {
+          "package_name": "raj.rak.offlinetranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673802099871-30854tolkp6pe2ei3d8jmio49gatvk2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLDi5sFFi8vFN3PFRdNYdTuMyyx7RuE18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673802099871-30854tolkp6pe2ei3d8jmio49gatvk2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673802099871:android:f0de2fcab70e40fd",
+        "android_client_info": {
+          "package_name": "raj.rak.phone.control.prank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673802099871-30854tolkp6pe2ei3d8jmio49gatvk2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLDi5sFFi8vFN3PFRdNYdTuMyyx7RuE18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673802099871-30854tolkp6pe2ei3d8jmio49gatvk2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7768807854418481~7631174987"
+    }
+  ],
+  "configuration_version": "1"
+}
